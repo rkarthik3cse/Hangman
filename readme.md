@@ -1,4 +1,3 @@
-Owner Email ID : karthik.3.cit@gmail.com (Please write to me if you have any concern)
 
 Description:
 
