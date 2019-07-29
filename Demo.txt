@@ -1,0 +1,182 @@
+				 Welcome to Hangman Game
+				 The word to be guessed is   :   ______(6)      quartz
+
+
+//Explanation : The word to be guessed is "quartz". It has 6 letters. So, the system displays 6 dashes and prompts the player to enter input.
+
+
+
+ Enter the guessed letter :
+
+ e
+ Failed Letters : e
+ Number of Possible Selections : 6170
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 7
+				 The word to be guessed is   :   ______(6)      bubbly
+
+
+//Explanation : The player has entered "e". As "e" is not present in "quartz", Error is shown to the player. The highlighting feature of this version is here. The word to be guessed is changed here. The game makes sure that the changed word does not contain "e" as we have assured the player that "e" is not present. The game have 6170 such words. The game chose one among them. Now the word to be guessed is "bubbly"
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ i
+ Failed Letters : ei
+ Number of Possible Selections : 3331
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 6
+
+				 The word to be guessed is   :   ______(6)      baryta
+
+
+//Explanation : The player has entered "i". As "i" is not present in "bubbly", Error is shown to the player. The highlighting feature of this version is here. The word to be guessed is changed here. The game makes sure that the changed word does not contain "e" and "i" as we have assured the player that they are not present. The game has 3331 such words. We chose one among them. Now the word to be guessed is "baryta"
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ a
+ Number of Possible Selections : 39
+ Your Guess is correct!
+ #Wrong attempts left : 6
+				 The word to be guessed is   :   _a___a(6)      payola
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ u
+ Failed Letters : eiu
+ Number of Possible Selections : 21
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 5
+
+				 The word to be guessed is   :   _a___a(6)      lambda
+
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ o
+ Failed Letters : eiuo
+ Number of Possible Selections : 11
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 4
+				 The word to be guessed is   :   _a___a(6)      rambla
+
+
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ t
+ Failed Letters : eiuot
+ Number of Possible Selections : 4
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 3
+
+				 The word to be guessed is   :   _a___a(6)      markka
+
+
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ s
+ Failed Letters : eiuots
+ Number of Possible Selections : 4
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 2
+
+				 The word to be guessed is   :   _a___a(6)      markka
+
+
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ r
+ Number of Possible Selections : 1
+ Your Guess is correct!
+ #Wrong attempts left : 2
+				 The word to be guessed is   :   _ar__a(6)      markka
+
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ n
+ Failed Letters : eiuotsn
+ Number of Possible Selections : 1
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 1
+
+
+				 The word to be guessed is   :   _ar__a(6)      markka
+
+
+
+
+
+
+
+
+
+
+ Enter the guessed letter :
+
+ h
+ Failed Letters : eiuotsnh
+ Number of Possible Selections : 1
+ Oops. You have made a mistake!!!
+ #Wrong Attempts left: 0
+
+					SORRY!!
+					YOU ARE HANGED TO DEAD!!!!
+					THE CORRECT WORD IS "markka"
+					BYE!!BYE!!!!
+
+
+
+
+
+
+Now the user thinks that the word to be guessed is "markka" and thinks that he has lost as the letters he has entered (eiuotsnh) is not present in "markka".
+Thus, the game cheats the player.
